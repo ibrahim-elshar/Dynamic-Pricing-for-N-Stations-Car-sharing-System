@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Sep 12 22:01:05 2018
-
 @author: Ibrahim
 """
 import matplotlib.pyplot as plt
